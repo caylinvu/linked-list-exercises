@@ -12,5 +12,5 @@ Linked list exercises from The Odin Project curriculum (using JavaScript)
   * contains(value) returns true if the passed in value is in the list and otherwise returns false
   * find(value) returns the index of the node containing the given value, or null if not found
   * toString() returns your LinkedList objects as strings in the format: ( value ) -> ( value ) -> ( value ) -> null
-  *insertAt(value, index) inserts a new node with the provided value at the given index or at the end of the list if the index is bigger than the list size
+  * insertAt(value, index) inserts a new node with the provided value at the given index or at the end of the list if the index is bigger than the list size
   * removeAt(index) removes the node at the given index
