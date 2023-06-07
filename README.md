@@ -2,7 +2,7 @@
 Linked list exercises from The Odin Project curriculum (using JavaScript)
 
 ## Functions
-  * append(value) adds a new node containing the given value to the end of the list
+  * `append(value)` adds a new node containing the given value to the end of the list
   * prepend(value) adds a new node containing the given value to the start of the list
   * size() returns the total number of nodes in the list
   * head() returns the first node in the list
